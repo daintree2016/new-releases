@@ -1,0 +1,13 @@
+The auto pricing website is mainly designed for the purpose of downloading the updated prices from the server directly.
+
+#LINK
+http://peach-stores.ddns.net/blumaple/imports/auto_pricing.php
+
+#Features of website
+1.this website allows the user to download the whole inventory prices with seconds along with calculated MRP, SALE PRICE, BUSINESS PRICE, MINIMUNM & MAXIMUM PRICES.
+2.It has inbuilt feature of editable cells that helps the user to make manual changes and the cells will be automatically updated with the updated prices and profit values.
+3.Each individual consists of a refresh button to refresh the current prices in the website.
+
+#Backend
+1.The website works with the php scripts that on the server side while running with visual html,css and javascript.
+2.The backend is linked to python scripts behind the page the php triggers the scripts and 
