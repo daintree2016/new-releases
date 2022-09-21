@@ -1,7 +1,10 @@
 The auto pricing website is mainly designed for the purpose of downloading the updated prices from the server directly.
 
-#LINK
+#LINK1
 http://peach-stores.ddns.net/blumaple/imports/auto_pricing.php
+
+#LINK2 (for local network users)
+192.168.1.17/blumaple/imports/auto_pricing.php
 
 #Features of website
 1.this website allows the user to download the whole inventory prices with seconds along with calculated MRP, SALE PRICE, BUSINESS PRICE, MINIMUNM & MAXIMUM PRICES.
